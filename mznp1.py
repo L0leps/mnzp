@@ -1,1 +1,2 @@
-# Python file for mnzp project
+# Python file for mnzp project text for test
+print('joly')
