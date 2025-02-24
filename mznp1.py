@@ -4,7 +4,7 @@ import pandas as pd
 import statistics as stats
 
 # Загрузка файла (замените 'laba1.csv' на имя вашего файла, если нужно)
-df = pd.read_csv('laba1.csv')
+df = pd.read_csv('laba11.csv')
 
 print(df.head())
 print(df.info())
